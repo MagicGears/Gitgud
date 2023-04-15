@@ -14,7 +14,7 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7r2vc7WIQECmBltZcntyenocfqH0wS1MGcA&usqp=CAU);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7r2vc7WIQECmBltZcntyenocfqH0wS1MGcA&usqp=CAU);	/* general background image				*/
+	--background:					url(https://preview.redd.it/ugho1kbtpj551.jpg?auto=webp&s=279351f72a3510a2e0cc9a6b4e711a4e734a871d);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
