@@ -14,7 +14,7 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
+@import url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7r2vc7WIQECmBltZcntyenocfqH0wS1MGcA&usqp=CAU);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
